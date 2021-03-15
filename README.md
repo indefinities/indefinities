@@ -1,4 +1,14 @@
-### Hi there 👋
+### nat hsu ☃︎
+Designer, Developer, Illustrator
+
+📕 **Northeastern University**, Boston MA \
+*Computer Science and Design*, Bachelors of Science \
+*Information Design and Data Visualization*, Masters of Science
+
+💬 Ask me about:
+* what anime I'm currently watching
+* the best boba places in Boston
+* my work experience doing front-end web development
 
 <!--
 **indefinities/indefinities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
