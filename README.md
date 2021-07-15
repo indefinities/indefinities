@@ -10,6 +10,9 @@ Designer, Developer, Illustrator
 * the best boba places in Boston
 * my work experience doing front-end web development
 
+I worked on:
+https://nuhacks.io
+
 <!--
 **indefinities/indefinities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
