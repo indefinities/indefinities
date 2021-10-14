@@ -1,5 +1,7 @@
 ### nat hsu ✨
-Designer, Developer, Illustrator
+Designer, Developer, Illustrator \
+Based in Boston, MA. Always looking to learn about up and coming technologies and constantly adapt to user experiences with software. \
+https://indefinities.github.io (WIP)
 
 **Northeastern University**, Boston MA 📕 🐾 \
 *Computer Science and Interaction Design*, Bachelors of Science \
@@ -10,9 +12,9 @@ Ask me about... 💬
 * my work experience doing front-end web development 👨‍💻
 * how many Octocats I have won from hackathon drawing contests 🖍
 
-I am working on:
-https://nuhacks.io 🐙
-https://camd.northeastern.edu 🎨
+I am working on: \
+https://nuhacks.io 🐙 \
+https://camd.northeastern.edu 🎨 \
 https://entrepenuership.northeastern.edu 📈
 
 <!--
