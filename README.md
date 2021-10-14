@@ -1,17 +1,19 @@
-### nat hsu ☃︎
+### nat hsu ✨
 Designer, Developer, Illustrator
 
-📕 **Northeastern University**, Boston MA \
-*Computer Science and Design*, Bachelors of Science \
+**Northeastern University**, Boston MA 📕 🐾 \
+*Computer Science and Interaction Design*, Bachelors of Science \
 *Information Design and Data Visualization*, Masters of Science
 
-💬 Ask me about:
-* what anime I'm currently watching
-* the best boba places in Boston
-* my work experience doing front-end web development
+Ask me about... 💬 
+* boba places I'd recommend in Boston 🧋
+* my work experience doing front-end web development 👨‍💻
+* how many Octocats I have won from hackathon drawing contests 🖍
 
-I worked on:
-https://nuhacks.io
+I am working on:
+https://nuhacks.io 🐙
+https://camd.northeastern.edu 🎨
+https://entrepenuership.northeastern.edu 📈
 
 <!--
 **indefinities/indefinities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
