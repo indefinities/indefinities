@@ -14,8 +14,11 @@ Ask me about... 💬
 
 I am working on: \
 https://nuhacks.io 🐙 \
-https://camd.northeastern.edu 🎨 \
+https://perzeption.github.io \
 https://entrepenuership.northeastern.edu 📈
+
+I _worked_ on: \
+https://camd.northeastern.edu 🎨 \
 
 <!--
 **indefinities/indefinities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
