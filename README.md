@@ -1,17 +1,17 @@
 ### nat hsu ✨
-Designer, Developer, Illustrator \
+UX Designer, Developer, and Illustrator \
 Based in Boston, MA. \
-Always looking to learn about up and coming technologies and constantly adapt to user experiences with software. \
+Constantly seeking *experience* with up and coming  and constantly adapting to prevalent user experience trends. \
 https://indefinities.github.io (WIP)
 
 **Northeastern University**, Boston MA 📕 🐾 \
 *Information Design and Data Visualization*, Masters of Science (Current) \
-*Computer Science and Interaction Design*, Bachelors of Science (2022)
+*Computer Science and Interaction Design*, Bachelors of Science (Class of 2022)
 
 
 Ask me about... 💬 
-* food and beverage places I'd recommend in Boston 🧋
-* my work experience doing front-end web development 👨‍💻
+* cafes and the best place for boba in Boston 🧋
+* work experience in front-end web development 👨‍💻
 * how many Octocats I have won from hackathon drawing contests 🖍
 
 As seen (working) on...
