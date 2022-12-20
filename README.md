@@ -1,25 +1,30 @@
-### nat hsu ✨
-UX Designer, Developer, and Illustrator \
-Based in Boston, MA. \
-Constantly seeking *experience* with up and coming  and constantly adapting to prevalent user experience trends. \
-https://indefinities.github.io (WIP)
+# nat hsu ✨
+_pronouns:_ she/they  
+Taiwanese-American wandering around the city of Boston, MA  
+UX Designer, Developer, and Illustrator  
+Constantly seeking *experience* with up and coming  and constantly adapting to prevalent user experience trends.  
+https://indefinities.one _(WIP)_  
+  
+### 🤓 Education
+🐾 **Northeastern University**, Boston MA  
+[Information Design and Data Visualization](https://camd.northeastern.edu/program/information-design-and-data-visualization-ms/), _Masters of Science_ (**Currently Enrolled**, Class of 2023)  
+[Computer Science and Interaction Design](https://www.khoury.northeastern.edu/programs/bs-computer-sciencedesign/), _Bachelors of Science_ (Class of 2022)  
 
-**Northeastern University**, Boston MA 📕 🐾 \
-*Information Design and Data Visualization*, Masters of Science (Current) \
-*Computer Science and Interaction Design*, Bachelors of Science (Class of 2022)
 
+### 💬 Ask me about...
+* cafés and the best place for boba ([Ten One Tea House](https://www.tenoneteahouse.com/) BTW) in Boston 🧋
+* work experience in front-end web development ([Chewy](https://www.chewy.com/) and [Numerated](https://www.numerated.com/)) 👨‍💻
+* how many Octocats I have won from hackathon drawing contests (2) 🖍
 
-Ask me about... 💬 
-* cafes and the best place for boba in Boston 🧋
-* work experience in front-end web development 👨‍💻
-* how many Octocats I have won from hackathon drawing contests 🖍
-
-As seen (working) on...
-https://nuhacks.io 🐙 \
-https://perzeption.github.io \
-https://entrepenuership.northeastern.edu 📈 \
-https://camd.northeastern.edu 🎨
-
+### As seen (working) on...  
+⭐️ https://metaverse101.github.io/#/  
+👁️ https://perzeption.github.io  
+🐙 https://nuhacks.io   
+📈 https://entrepenuership.northeastern.edu  
+🎨 https://camd.northeastern.edu  
+  
+  
+![Nat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=indefinities&count_private=true&show_icons=true&theme=dracula)
 <!--
 **indefinities/indefinities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
