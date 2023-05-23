@@ -5,10 +5,13 @@ UX Designer, Developer, and Illustrator
 Constantly seeking *experience* with up and coming  and constantly adapting to prevalent user experience trends.  
 https://indefinities.one _(WIP)_  
   
+**📍 Where am I now? ** 
+Currently visualizing data with [PATTERN](https://pattern.broadinstitute.org/) @ [Broad Institute](https://www.broadinstitute.org/)  
+  
 ### 🤓 Education
 🐾 **Northeastern University**, Boston MA  
-[Information Design and Data Visualization](https://camd.northeastern.edu/program/information-design-and-data-visualization-ms/), _Masters of Science_ (**Currently Enrolled**, Class of 2023)  
-[Computer Science and Interaction Design](https://www.khoury.northeastern.edu/programs/bs-computer-sciencedesign/), _Bachelors of Science_ (Class of 2022)  
+[Information Design and Data Visualization](https://camd.northeastern.edu/program/information-design-and-data-visualization-ms/), _Masters of Science_ (2021-2023)  
+[Computer Science and Interaction Design](https://www.khoury.northeastern.edu/programs/bs-computer-sciencedesign/), _Bachelors of Science_ (2018-2022)  
 
 
 ### 💬 Ask me about...
@@ -17,7 +20,6 @@ https://indefinities.one _(WIP)_
 * how many Octocats I have won from hackathon drawing contests (2) 🖍
 
 ### As seen (working) on...  
-⭐️ https://metaverse101.github.io/#/  
 👁️ https://perzeption.github.io  
 🐙 https://nuhacks.io   
 📈 https://entrepenuership.northeastern.edu  
