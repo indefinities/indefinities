@@ -3,17 +3,6 @@
 *Taiwanese-American*  
 *Wandering around the city of Boston, MA*  
 My website ➡️ https://indefinities.github.io/#/ 
-
-When I was young, I was also really interested in webcomics and artists using social media to post their artwork. I admired how artists could utilize web development to manipulate elements within the screen on a browser and use SaaS to sell their products. Now, I'm at a place where I always wonder the simpilest question: "what happens when I click this?"  
-  
-Outside of my creative passions, I enjoy learning more about who I am developing for and getting to really understand their pain points and needs. My masters in Information Design and Data Visualization made me realize that visually communicating is truly an important skill to have in this day and age where people are constantly utilizing SaaS and looking at websites.  
-
-When I have the chance, I love to continue exploring the city of Boston, even though I resided here my whole life I still somehow find something new every now and then. I also enjoy trying new food while engaging in a creative activity (taking photos, drawing, listening to music) and spending time with friends and family.  
-  
-Let me know if you would like to grab some tea sometime 😁
-  
-### 📍 Where am I now?  
-Currently visualizing data in [PATTERN](https://pattern.broadinstitute.org/) @ [Broad Institute](https://www.broadinstitute.org/)  
   
 ___
 **🤓 Education**  
